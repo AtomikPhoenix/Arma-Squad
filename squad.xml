@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="FPS">
+    <name>FATALPHOENIX</name>
+    <email>atomikphoenix@gmail.com</email>
+    <web>N/A</web>
+    <picture>FPS-Logo.paa</picture>
+    <title>FATALPHOENIX Studios</title>
+    <member id="76561198136618052" nick="AtomikPhoenix">
+        <name>Timothy</name>
+        <email>atomikphoenix@gmail.com</email>
+        <icq>Twitter @AtomikPhoenix</icq>
+        <remark>From the Ashes of One, Rises Another</remark>
+    </member>
+</squad>
